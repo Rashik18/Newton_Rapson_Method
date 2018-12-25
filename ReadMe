@@ -1,0 +1,3 @@
+Me(Mohammad Rashik Zaman) and my friend(Ashraful Alam Gazi) has developed the code on the basis of Root finding method Newton-Rapson.
+
+The method requires a initial guess as input to find root. In that case we have used loop [-21,21] as every every one of them works as initial input(guess). We will get root as output for each and every guess. At the end we will find the graph as (root vs input) and also (iteration vs input) as we have put a counter to find out we many theorytical looping does it take for different input.
